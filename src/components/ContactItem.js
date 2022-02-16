@@ -1,4 +1,5 @@
 import Card from "./Card";
+import { useState } from "react";
 
 const ContactItem = ({ contact }) => {
   return (
